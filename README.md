@@ -1,2 +1,2 @@
 # FriedEgg-Roblox-Executor
-executor
+Roblox executor that can use 3 APIs
